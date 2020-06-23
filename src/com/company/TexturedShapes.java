@@ -76,7 +76,7 @@ public class TexturedShapes {
     }
 
     public static void Piramida(GL2 gl) {
-        uvCone(gl,0.5,1,7,10,5,true);
+        uvCone(gl,0.5,1,8,10,5,true);
     }
 
 
